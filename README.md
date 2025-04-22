@@ -1,5 +1,5 @@
 # Stavona R V2 使用指南/Guide
-
+[V1更换IO板戳我](https://github.com/HajiAIqaq/Stavona-R-Guide/blob/main/%E6%9B%B4%E6%8D%A2IO%E6%9D%BF/Stavona%20R%20V1%20%E6%9B%B4%E6%8D%A2IO%E6%9D%BF%E8%AF%A6%E7%BB%86%E6%8C%87%E5%8D%97.md)
 ### 特点/Features
 
 - 独有的外壳设计，外形更加炫酷
